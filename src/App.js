@@ -48,7 +48,7 @@ class App extends React.Component {
        
         })
       
-    }else{ alert('Add some tasks.')}
+    }else{ alert('Add tasks message.')}
 
   }
 
